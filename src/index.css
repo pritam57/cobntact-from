@@ -8,7 +8,9 @@ body {
 
   
 }
-
+.container{
+  width: 600px !important;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
